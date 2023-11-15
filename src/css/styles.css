@@ -49,7 +49,9 @@ body {
 
 .button {
   border: 1px solid black;
-  border-radius: 10px
+  border-radius: 10px;
+  background-color: #779977;
+  color: white;
   text-align: center;
   padding: 10%;
   margin: 5px auto;
