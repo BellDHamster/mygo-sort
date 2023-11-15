@@ -111,10 +111,10 @@ body {
 }
 
 .sorter > .image {
-  width: 480px;
-  height: 480px;
+  width: 360px;
+  height: 360px;
   margin: auto;
-  grid-row: 1 / 7;
+  grid-row: 1 / 6;
   cursor: pointer;
 }
 
