@@ -19,7 +19,7 @@ body {
 .progressbar {
   position: relative;
   width: 492px;
-  border: 1px solid green;
+  border: 1px solid black;
   padding: 3px;
   margin: 2px 0px;
 }
@@ -47,7 +47,7 @@ body {
 }
 
 .button {
-  border: 1px solid green;
+  border: 1px solid black;
   text-align: center;
   padding: 10%;
   grid-column: 2 / 3;
@@ -55,7 +55,7 @@ body {
 }
 
 .starting.start.button {
-  grid-row: span 5;
+  grid-row: span 6;
 }
 
 .starting.load.button {
@@ -69,7 +69,7 @@ body {
 }
 
 .loading.button {
-  grid-row: span 5;
+  grid-row: span 6;
   display: none;
 }
 
@@ -111,8 +111,8 @@ body {
 }
 
 .sorter > .image {
-  width: 240px;
-  height: 240px;
+  width: 120px;
+  height: 180px;
   margin: auto;
   grid-row: 1 / 7;
   cursor: pointer;
