@@ -120,4 +120,4 @@ dataSet[dataSetVersion].characterData = [
       bands: ["ave"]
     }
   }
-]
+];
