@@ -19,105 +19,105 @@ dataSet[dataSetVersion].characterData = [
     name: "Tomori Takamatsu",
     img: "Tomori.png",
     opts: {
-      groups: ["mygo","cryc"]
+      bands: ["mygo","cryc"]
     }
   },
     {
     name: "Nagasaki Soyo",
     img: "Soyo.png",
     opts: {
-      groups: ["mygo","cryc"]
+      bands: ["mygo","cryc"]
     }
   },
       {
     name: "Chihaya Anon",
     img: "Anon.png",
     opts: {
-      groups: ["mygo"]
+      bands: ["mygo"]
     }
   },
       {
     name: "Kaname Raana",
     img: "Raana.png",
     opts: {
-      groups: ["mygo"]
+      bands: ["mygo"]
     }
   },
       {
     name: "Shiina Taki",
     img: "Taki.png",
     opts: {
-      groups: ["mygo","cryc"]
+      bands: ["mygo","cryc"]
     }
   },
         {
     name: "Misumi Uika",
     img: "Uika.png",
     opts: {
-      groups: ["ave"]
+      bands: ["ave"]
     }
   },
           {
     name: "Yahata Umiri",
     img: "Umiri.png",
     opts: {
-      groups: ["ave"]
+      bands: ["ave"]
     }
   },
           {
     name: "Wakaba Mutsumi",
     img: "Mutsumi.png",
     opts: {
-      groups: ["ave","cryc"]
+      bands: ["ave","cryc"]
     }
   },
             {
     name: "Togawa Sakiko",
     img: "Sakiko.png",
     opts: {
-      groups: ["ave","cryc"]
+      bands: ["ave","cryc"]
     }
   },
             {
     name: "Yuutenji Nyamu",
     img: "Nyamu.png",
     opts: {
-      groups: ["ave"]
+      bands: ["ave"]
     }
   },
               {
     name: "Oblivionis",
     img: "Oblivionis.png",
     opts: {
-      groups: ["ave"]
+      bands: ["ave"]
     }
   },
                 {
     name: "Doloris",
     img: "Doloris.png",
     opts: {
-      groups: ["ave"]
+      bands: ["ave"]
     }
   },
                 {
     name: "Amoris",
     img: "Amoris.png",
     opts: {
-      groups: ["ave"]
+      bands: ["ave"]
     }
   },
                 {
     name: "Mortis",
     img: "Mortis.png",
     opts: {
-      groups: ["ave"]
+      bands: ["ave"]
     }
   },
                 {
     name: "Timoris",
     img: "Timoris.png",
     opts: {
-      groups: ["ave"]
+      bands: ["ave"]
     }
   }
 ]
