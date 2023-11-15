@@ -134,12 +134,12 @@ body {
 
 .sorter > .left {
   grid-column: 1 / 2;
-  border: 3px solid #3388BB;
+  border: 2px solid #3388BB;
 }
 
 .sorter > .right {
   grid-column: 3 / 4;
-  border: 3px solid #881144;
+  border: 2px solid #881144;
 }
 
 .options {
@@ -212,8 +212,8 @@ label:hover {
   margin-bottom: -1px;
   display: grid;
   width: 211px;
-  grid-template-columns: repeat(6, 1fr);
-  border: 2px solid #3388BB;
+  grid-template-columns: repeat(2, 1fr);
+  border: 2px solid #000;
   margin-right: 5px;
 }
 
