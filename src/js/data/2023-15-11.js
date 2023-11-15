@@ -9,7 +9,8 @@ dataSet[dataSetVersion].options = [
     checked: false,
     sub: [
       { name: "MyGo!!!!!", key: "mygo" },
-      { name: "AveMujica", key: "ave" },
+      { name: "Ave Mujica", key: "ave" },
+      { name: "CRYCHIC", key: "cryc" },
     ]
   }
 ];
@@ -18,14 +19,14 @@ dataSet[dataSetVersion].characterData = [
     name: "Tomori Takamatsu",
     img: "Tomori.png",
     opts: {
-      bands: ["mygo"]
+      bands: ["mygo","cryc"]
     }
   },
     {
     name: "Nagasaki Soyo",
     img: "Soyo.png",
     opts: {
-      bands: ["mygo"]
+      bands: ["mygo","cryc"]
     }
   },
       {
@@ -46,7 +47,7 @@ dataSet[dataSetVersion].characterData = [
     name: "Shiina Taki",
     img: "Taki.png",
     opts: {
-      bands: ["mygo"]
+      bands: ["mygo","cryc"]
     }
   },
         {
@@ -67,14 +68,14 @@ dataSet[dataSetVersion].characterData = [
     name: "Wakaba Mutsumi",
     img: "Mutsumi.png",
     opts: {
-      bands: ["ave"]
+      bands: ["ave","cryc"]
     }
   },
             {
     name: "Togawa Sakiko",
     img: "Sakiko.png",
     opts: {
-      bands: ["ave"]
+      bands: ["ave","cryc"]
     }
   },
             {
