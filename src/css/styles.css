@@ -140,11 +140,13 @@ body {
 .sorter > .left {
   grid-column: 1 / 2;
   border: 2px solid #3388BB;
+  background-color: #3388BB;
 }
 
 .sorter > .right {
   grid-column: 3 / 4;
   border: 2px solid #881144;
+  background-color: #881144;
 }
 
 .options {
