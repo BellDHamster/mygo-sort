@@ -10,7 +10,7 @@ dataSet[dataSetVersion].options = [
     sub: [
       { name: "MyGo!!!!!", key: "mygo" },
       { name: "AveMujica", key: "ave" },
-      { name: "CryChic", key: "cryc" }
+      { name: "CRYCHIC", key: "cryc" }
     ]
   }
 ];
