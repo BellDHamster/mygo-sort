@@ -50,7 +50,7 @@ body {
   border: 1px solid black;
   text-align: center;
   padding: 10%;
-  margin: 20px auto;
+  margin: 5px auto;
   grid-column: 2 / 3;
   cursor: pointer;
 }
