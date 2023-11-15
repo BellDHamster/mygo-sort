@@ -19,7 +19,7 @@ body {
 .progressbar {
   position: relative;
   width: 492px;
-  border: 1px solid black;
+  border: 1px solid green;
   padding: 3px;
   margin: 2px 0px;
 }
@@ -55,7 +55,7 @@ body {
 }
 
 .starting.start.button {
-  grid-row: span 6;
+  grid-row: span 3;
 }
 
 .starting.load.button {
@@ -69,7 +69,7 @@ body {
 }
 
 .loading.button {
-  grid-row: span 6;
+  grid-row: span 3;
   display: none;
 }
 
