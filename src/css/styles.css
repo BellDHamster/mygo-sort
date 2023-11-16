@@ -227,11 +227,11 @@ label:hover {
 }
 
 .result.image {
-  height: 210px;
+  height: 180px;
 }
 
 .result.image img {
-  height: 180px;
+  height: 160px;
 }
 
 .result.spacer {
