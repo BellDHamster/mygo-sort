@@ -232,6 +232,7 @@ label:hover {
 
 .result.image img {
   height: 160px;
+  width: 120px;
 }
 
 .result.spacer {
